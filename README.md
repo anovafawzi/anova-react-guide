@@ -48,6 +48,9 @@ But I also have compiled other CSS frameworks that commonly used now, some of it
 2. [Semantic-UI React](https://react.semantic-ui.com/introduction)
 3. [Ant-Design](https://ant.design/)
 
+## Grid
+As for grids, we can use this [react-data-grid](https://github.com/adazzle/react-data-grid), this grid still not have pagination, for that purpose, use [react-paginate](https://www.npmjs.com/package/react-paginate)
+
 ## Code convention
 I think the Airbnb code convention are nice to follow (https://github.com/airbnb/javascript/tree/master/react).
 
