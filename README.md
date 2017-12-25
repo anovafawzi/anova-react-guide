@@ -48,6 +48,12 @@ But I also have compiled other CSS frameworks that commonly used now, some of it
 2. [Semantic-UI React](https://react.semantic-ui.com/introduction)
 3. [Ant-Design](https://ant.design/)
 
+## Alert system
+There are several alert system, one is [toastr](https://github.com/tomchentw/react-toastr) but my preference are [s-alert](https://github.com/juliancwirko/react-s-alert).
+
+## Modal/Dialog/Confirm
+Its a bit hard to find the suitable one for react, but i think [this](https://github.com/haradakunihiko/react-confirm) is good, it can handle custome dialog library with custom layout and also can handle complex input from the modal window.
+
 ## Grid
 As for grids, we can use this [react-data-grid](https://github.com/adazzle/react-data-grid), this grid still not have pagination, for that purpose, use [react-paginate](https://www.npmjs.com/package/react-paginate)
 
