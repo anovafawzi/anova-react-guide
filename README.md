@@ -43,6 +43,8 @@ There are various css frameworks for React now, but I'm gonna stick with [bootst
 
 If you're looking for bootstrap+ framework, check out [Shards](https://designrevision.com/demo/shards/). It already have more components such as datetimepicker, slider, etc.
 
+UPDATE: I found that [CoreUI](https://coreui.io/react/) is a nice base for bootstrap4 theme (you can find several themes for different framework). They have the webpack bundle as well, sweet!
+
 But I also have compiled other CSS frameworks that commonly used now, some of it are listed from this [article](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651):
 1. [Material-UI](http://www.material-ui.com/)
 2. [Semantic-UI React](https://react.semantic-ui.com/introduction)
@@ -53,6 +55,9 @@ There are several alert system, one is [toastr](https://github.com/tomchentw/rea
 
 ## Modal/Dialog/Confirm
 Its a bit hard to find the suitable one for react, but i think [this](https://github.com/haradakunihiko/react-confirm) is good, it can handle custome dialog library with custom layout and also can handle complex input from the modal window.
+
+## Datetime picker
+It's not a lot of datetime picker out there, but I think [this](https://github.com/YouCanBookMe/react-datetime) is quite nice. We need to install [momentJS](https://www.npmjs.com/package/moment) as well, I think its a must library.
 
 ## Grid
 As for grids, we can use this [react-data-grid](https://github.com/adazzle/react-data-grid), this grid still not have pagination, for that purpose, use [react-paginate](https://www.npmjs.com/package/react-paginate)
